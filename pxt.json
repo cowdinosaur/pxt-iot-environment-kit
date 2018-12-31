@@ -4,9 +4,7 @@
     "description": "Environment IoT package by ELECFREAKS, CLASSROOM and Tinkercademy",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "OLED": "github:Tinkertanker/pxt-oled-ssd1306#1.2.5",
-        "ESP8266_IoT": "github:elecfreaks/pxt-esp8266iot"
+        "core": "*"
     },
 
     "files": [
